@@ -5,3 +5,4 @@
 * *.md - technial guides
 * wordpress.xml - site export
 * wordpress.sql - database export
+* Next Steps.md - information on possible backlog items
