@@ -2,7 +2,7 @@
 
 #### Item Descriptions
 
-* *.md - technial guides
+* *.md - technical guides
 * wordpress.zip - actual, physical site
 * wordpress.xml - site export
 * wordpress.sql - database export
